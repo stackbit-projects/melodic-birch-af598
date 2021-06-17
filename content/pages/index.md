@@ -17,7 +17,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: services
-    title: Services
+    title: Exclusive Viewings
     subtitle: What we do
     col_number: three
     grid_items:
