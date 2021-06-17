@@ -34,7 +34,7 @@ sections:
         content: |
           *   Increase closing possibilities
           *   Professional Home-Staging and Cleaning
-      - title: Experience design
+      - title: Dedicated Team
         image: images/service-3.svg
         content: |-
           - Digital product design
