@@ -31,14 +31,9 @@ sections:
           *   100% Satisfaction
       - title: Home-Staging
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Increase closing possibilities
+          *   Professional Home-Staging and Cleaning
       - title: Experience design
         image: images/service-3.svg
         content: |-
