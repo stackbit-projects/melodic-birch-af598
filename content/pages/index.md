@@ -29,7 +29,7 @@ sections:
           *   Dedicated Marketing Efforts and Designer
           *   One Point of Contact
           *   100% Satisfaction
-      - title: Brand design
+      - title: Home-Staging
         image: images/service-2.svg
         content: |-
           - Brand development
