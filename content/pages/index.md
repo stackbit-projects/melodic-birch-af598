@@ -47,7 +47,7 @@ sections:
       - author: Desmond Eagle
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
+        position: Someone Speshul
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
